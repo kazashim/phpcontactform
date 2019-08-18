@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><input type="reset" name="reset" value="Reset"/></td>
-    <td align="right"><input type="submit" name="Submit" value="Submit"></td><td align="right"><a href="http://www.scriptgenerator.net/html-php-contact-form-mailer-generator/" title="Valid Contact Form"><img src="http://www.scriptgenerator.net/generator/html-php-contact-form-mailer-generator_files/validform.jpg" alt="HTML PHP contact form generator" width="20" height="20" /></a></td>
+    <td align="right"><input type="submit" name="Submit" value="Submit"></td><td align="right"></td>
   </tr>
 </table>
 </form>
